@@ -1,0 +1,28 @@
+body{
+
+    background-color: darkorchid;
+color: aliceblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.div1{
+margin-top: -180px;
+    margin-left:600px;
+}
+
+.div2{
+
+    margin-top: -50px;
+}
+
+.div3{
+    margin-left: 300px;
+}
+
+.div4{
+    margin-top: -100px;
+    margin-left: 600px;
+}
+
+.div5{
+    
+}
